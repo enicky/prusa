@@ -1,0 +1,316 @@
+start
+echo: 3.12.0-5672
+echo: Last Updated: Jan 10 2023 11:12:40 | Author: (none, default config)
+Compiled: Jan 10 2023
+echo: Free Memory: 2592  PlannerBufferBytes: 1792
+echo:Stored settings retrieved
+adc_init
+CrashDetect ENABLED!
+FSensor ENABLED
+Sending 0xFF
+echo:SD card ok
+echo:busy: paused for user
+echo:busy: paused for user
+echo:busy: paused for user
+echo:busy: paused for user
+echo:busy: paused for user
+echo:busy: paused for user
+echo:busy: paused for user
+echo:busy: paused for user
+echo:busy: paused for user
+echo:busy: paused for user
+echo:busy: paused for user
+echo:busy: paused for user
+echo:busy: paused for user
+MMU not responding - DISABLED
+echo:busy: paused for user
+echo:busy: paused for user
+echo:busy: paused for user
+echo:busy: paused for user
+echo:busy: paused for user
+echo:busy: paused for user
+echo:busy: paused for user
+echo:busy: paused for user
+M310 ;report current temp model settings
+Command not found!
+M310
+
+
+m310
+echo:Unknown command: "m310"(2)
+ok
+M310
+echo:Temperature Model settings:
+echo:  M310 I0 R20.50
+echo:  M310 I1 R18.40
+echo:  M310 I2 R16.70
+echo:  M310 I3 R15.20
+echo:  M310 I4 R14.10
+echo:  M310 I5 R13.30
+echo:  M310 I6 R12.70
+echo:  M310 I7 R12.10
+echo:  M310 I8 R11.70
+echo:  M310 I9 R11.30
+echo:  M310 I10 R11.00
+echo:  M310 I11 R10.80
+echo:  M310 I12 R10.60
+echo:  M310 I13 R10.40
+echo:  M310 I14 R10.20
+echo:  M310 I15 R10.10
+echo:  M310 P38.00 C12.10 S0 B1 E1.74 W1.20 T-7.00
+ok
+M155 S1 C3
+ok
+T:85.3 /0.0 B:13.7 /0.0 T0:85.3 /0.0 @:0 B@:0 P:14.5 A:19.5
+E0:3720 RPM PRN1:0 RPM E0@:255 PRN1@:0
+T:84.8 /0.0 B:13.5 /0.0 T0:84.8 /0.0 @:0 B@:0 P:14.4 A:19.4
+E0:3720 RPM PRN1:0 RPM E0@:255 PRN1@:0
+T:84.3 /0.0 B:13.3 /0.0 T0:84.3 /0.0 @:0 B@:0 P:14.5 A:19.7
+E0:3720 RPM PRN1:0 RPM E0@:255 PRN1@:0
+T:83.9 /0.0 B:13.6 /0.0 T0:83.9 /0.0 @:0 B@:0 P:14.3 A:19.3
+E0:3720 RPM PRN1:0 RPM E0@:255 PRN1@:0
+DT:83.6 /0.0 B:13.9 /0.0 T0:83.6 /0.0 @:0 B@:0 P:14.5 A:19.1
+E0:3720 RPM PRN1:0 RPM E0@:255 PRN1@:0
+79 T:83.1 /0.0 B:13.3 /0.0 T0:83.1 /0.0 @:0 B@:0 P:14.4 A:19.5
+E0:3840 RPM PRN1:0 RPM E0@:255 PRN1@:0
+I1T:82.7 /0.0 B:13.8 /0.0 T0:82.7 /0.0 @:0 B@:0 P:14.1 A:19.4
+E0:3840 RPM PRN1:0 RPM E0@:255 PRN1@:0
+
+Unknown D code: D79 I1
+ok
+T:82.3 /0.0 B:13.2 /0.0 T0:82.3 /0.0 @:0 B@:0 P:14.3 A:19.4
+E0:3840 RPM PRN1:0 RPM E0@:255 PRN1@:0
+T:81.9 /0.0 B:13.3 /0.0 T0:81.9 /0.0 @:0 B@:0 P:14.3 A:19.5
+E0:3840 RPM PRN1:0 RPM E0@:255 PRN1@:0
+T:81.5 /0.0 B:13.4 /0.0 T0:81.5 /0.0 @:0 B@:0 P:14.3 A:19.6
+E0:3840 RPM PRN1:0 RPM E0@:255 PRN1@:0
+T:81.1 /0.0 B:13.5 /0.0 T0:81.1 /0.0 @:0 B@:0 P:14.4 A:19.2
+E0:3840 RPM PRN1:0 RPM E0@:255 PRN1@:0
+T:80.8 /0.0 B:13.5 /0.0 T0:80.8 /0.0 @:0 B@:0 P:14.8 A:19.2
+E0:3840 RPM PRN1:0 RPM E0@:255 PRN1@:0
+T:80.4 /0.0 B:13.5 /0.0 T0:80.4 /0.0 @:0 B@:0 P:14.3 A:18.9
+E0:3840 RPM PRN1:0 RPM E0@:255 PRN1@:0
+T:80.0 /0.0 B:13.2 /0.0 T0:80.0 /0.0 @:0 B@:0 P:14.2 A:19.6
+E0:3840 RPM PRN1:0 RPM E0@:255 PRN1@:0
+T:79.6 /0.0 B:13.5 /0.0 T0:79.6 /0.0 @:0 B@:0 P:14.1 A:20.0
+E0:3840 RPM PRN1:0 RPM E0@:255 PRN1@:0
+T:79.2 /0.0 B:13.4 /0.0 T0:79.2 /0.0 @:0 B@:0 P:14.3 A:18.9
+E0:3840 RPM PRN1:0 RPM E0@:255 PRN1@:0
+T:78.8 /0.0 B:13.1 /0.0 T0:78.8 /0.0 @:0 B@:0 P:14.5 A:19.1
+E0:3780 RPM PRN1:0 RPM E0@:255 PRN1@:0
+D70 I1T:78.3 /0.0 B:13.5 /0.0 T0:78.3 /0.0 @:0 B@:0 P:14.6 A:19.8
+E0:3780 RPM PRN1:0 RPM E0@:255 PRN1@:0
+
+ok
+T:77.9 /0.0 B:13.3 /0.0 T0:77.9 /0.0 @:0 B@:0 P:14.5 A:20.4
+E0:3780 RPM PRN1:0 RPM E0@:255 PRN1@:0
+T:77.5 /0.0 B:13.1 /0.0 T0:77.5 /0.0 @:0 B@:0 P:14.3 A:19.6
+E0:3780 RPM PRN1:0 RPM E0@:255 PRN1@:0
+T:77.1 /0.0 B:13.8 /0.0 T0:77.1 /0.0 @:0 B@:0 P:14.2 A:19.0
+E0:3780 RPM PRN1:0 RPM E0@:255 PRN1@:0
+T:76.7 /0.0 B:13.5 /0.0 T0:76.7 /0.0 @:0 B@:0 P:14.6 A:19.8
+E0:3780 RPM PRN1:0 RPM E0@:255 PRN1@:0
+T:76.3 /0.0 B:13.2 /0.0 T0:76.3 /0.0 @:0 B@:0 P:14.4 A:19.1
+E0:3780 RPM PRN1:0 RPM E0@:255 PRN1@:0
+T:76.0 /0.0 B:13.4 /0.0 T0:76.0 /0.0 @:0 B@:0 P:14.4 A:19.7
+E0:3780 RPM PRN1:0 RPM E0@:255 PRN1@:0
+T:75.6 /0.0 B:13.0 /0.0 T0:75.6 /0.0 @:0 B@:0 P:14.8 A:19.4
+E0:3780 RPM PRN1:0 RPM E0@:255 PRN1@:0
+T:75.1 /0.0 B:13.4 /0.0 T0:75.1 /0.0 @:0 B@:0 P:14.5 A:19.7
+E0:3780 RPM PRN1:0 RPM E0@:255 PRN1@:0
+M310 A F1T:74.8 /0.0 B:13.3 /0.0 T0:74.8 /0.0 @:0 B@:0 P:14.5 A:19.3
+E0:3780 RPM PRN1:0 RPM E0@:255 PRN1@:0
+
+TM: calibration start
+LCD status changed
+TM: cool down <50C
+T:74.5 /0.0 B:13.5 /0.0 T0:74.5 /0.0 @:0 B@:0 P:14.4 A:19.5
+E0:3780 RPM PRN1:0 RPM E0@:255 PRN1@:255
+T:74.0 /0.0 B:13.3 /0.0 T0:74.0 /0.0 @:0 B@:0 P:14.4 A:19.5
+E0:3780 RPM PRN1:0 RPM E0@:255 PRN1@:255
+echo:busy: processing
+T:73.2 /0.0 B:13.1 /0.0 T0:73.2 /0.0 @:0 B@:0 P:14.5 A:19.7
+E0:3780 RPM PRN1:0 RPM E0@:255 PRN1@:255
+T:72.4 /0.0 B:13.2 /0.0 T0:72.4 /0.0 @:0 B@:0 P:14.4 A:19.7
+E0:3780 RPM PRN1:0 RPM E0@:255 PRN1@:255
+echo:busy: processing
+T:71.8 /0.0 B:13.4 /0.0 T0:71.8 /0.0 @:0 B@:0 P:14.3 A:19.4
+E0:3780 RPM PRN1:0 RPM E0@:255 PRN1@:255
+T:71.0 /0.0 B:13.0 /0.0 T0:71.0 /0.0 @:0 B@:0 P:14.6 A:19.5
+E0:3660 RPM PRN1:4740 RPM E0@:255 PRN1@:255
+echo:busy: processing
+T:70.3 /0.0 B:13.4 /0.0 T0:70.3 /0.0 @:0 B@:0 P:14.3 A:19.3
+E0:3660 RPM PRN1:4740 RPM E0@:255 PRN1@:255
+T:69.5 /0.0 B:13.1 /0.0 T0:69.5 /0.0 @:0 B@:0 P:14.2 A:19.8
+E0:3660 RPM PRN1:4740 RPM E0@:255 PRN1@:255
+echo:busy: processing
+T:68.9 /0.0 B:13.0 /0.0 T0:68.9 /0.0 @:0 B@:0 P:14.3 A:19.8
+E0:3660 RPM PRN1:4740 RPM E0@:255 PRN1@:255
+T:68.1 /0.0 B:13.3 /0.0 T0:68.1 /0.0 @:0 B@:0 P:14.2 A:19.8
+E0:3660 RPM PRN1:4740 RPM E0@:255 PRN1@:255
+echo:busy: processing
+T:67.3 /0.0 B:13.3 /0.0 T0:67.3 /0.0 @:0 B@:0 P:14.3 A:19.5
+E0:3660 RPM PRN1:4440 RPM E0@:255 PRN1@:255
+T:66.6 /0.0 B:13.0 /0.0 T0:66.6 /0.0 @:0 B@:0 P:14.4 A:19.9
+E0:3660 RPM PRN1:4440 RPM E0@:255 PRN1@:255
+echo:busy: processing
+T:66.0 /0.0 B:13.3 /0.0 T0:66.0 /0.0 @:0 B@:0 P:14.5 A:19.5
+E0:3660 RPM PRN1:4440 RPM E0@:255 PRN1@:255
+T:65.3 /0.0 B:13.2 /0.0 T0:65.3 /0.0 @:0 B@:0 P:14.6 A:19.3
+E0:3660 RPM PRN1:4440 RPM E0@:255 PRN1@:255
+echo:busy: processing
+T:64.6 /0.0 B:13.2 /0.0 T0:64.6 /0.0 @:0 B@:0 P:14.3 A:19.6
+E0:3660 RPM PRN1:4440 RPM E0@:255 PRN1@:255
+T:64.0 /0.0 B:13.3 /0.0 T0:64.0 /0.0 @:0 B@:0 P:14.2 A:19.7
+E0:3840 RPM PRN1:5040 RPM E0@:255 PRN1@:255
+echo:busy: processing
+T:63.4 /0.0 B:13.1 /0.0 T0:63.4 /0.0 @:0 B@:0 P:14.2 A:19.8
+E0:3840 RPM PRN1:5040 RPM E0@:255 PRN1@:255
+T:62.8 /0.0 B:13.1 /0.0 T0:62.8 /0.0 @:0 B@:0 P:14.2 A:19.4
+E0:3840 RPM PRN1:5040 RPM E0@:255 PRN1@:255
+echo:busy: processing
+T:62.1 /0.0 B:13.2 /0.0 T0:62.1 /0.0 @:0 B@:0 P:14.0 A:19.3
+E0:3840 RPM PRN1:5040 RPM E0@:255 PRN1@:255
+T:61.7 /0.0 B:13.3 /0.0 T0:61.7 /0.0 @:0 B@:0 P:14.1 A:19.5
+E0:3840 RPM PRN1:5040 RPM E0@:255 PRN1@:255
+echo:busy: processing
+T:61.1 /0.0 B:13.1 /0.0 T0:61.1 /0.0 @:0 B@:0 P:14.0 A:19.4
+E0:3840 RPM PRN1:3840 RPM E0@:255 PRN1@:255
+echo:busy: processing
+T:60.4 /0.0 B:13.1 /0.0 T0:60.4 /0.0 @:0 B@:0 P:14.0 A:20.0
+E0:3840 RPM PRN1:3840 RPM E0@:255 PRN1@:255
+T:59.9 /0.0 B:13.3 /0.0 T0:59.9 /0.0 @:0 B@:0 P:14.2 A:19.6
+E0:3840 RPM PRN1:3840 RPM E0@:255 PRN1@:255
+echo:busy: processing
+T:59.4 /0.0 B:13.3 /0.0 T0:59.4 /0.0 @:0 B@:0 P:14.1 A:19.5
+E0:3840 RPM PRN1:3840 RPM E0@:255 PRN1@:255
+T:58.7 /0.0 B:13.2 /0.0 T0:58.7 /0.0 @:0 B@:0 P:14.0 A:19.8
+E0:3840 RPM PRN1:3840 RPM E0@:255 PRN1@:255
+echo:busy: processing
+T:58.0 /0.0 B:13.2 /0.0 T0:58.0 /0.0 @:0 B@:0 P:14.0 A:19.7
+E0:3840 RPM PRN1:4440 RPM E0@:255 PRN1@:255
+T:57.3 /0.0 B:13.5 /0.0 T0:57.3 /0.0 @:0 B@:0 P:14.1 A:19.6
+E0:3840 RPM PRN1:4440 RPM E0@:255 PRN1@:255
+echo:busy: processing
+T:56.9 /0.0 B:13.1 /0.0 T0:56.9 /0.0 @:0 B@:0 P:14.2 A:19.9
+E0:3840 RPM PRN1:4440 RPM E0@:255 PRN1@:255
+T:56.2 /0.0 B:13.2 /0.0 T0:56.2 /0.0 @:0 B@:0 P:14.1 A:19.1
+E0:3840 RPM PRN1:4440 RPM E0@:255 PRN1@:255
+echo:busy: processing
+T:55.7 /0.0 B:13.0 /0.0 T0:55.7 /0.0 @:0 B@:0 P:14.0 A:19.2
+E0:3840 RPM PRN1:4440 RPM E0@:255 PRN1@:255
+T:55.2 /0.0 B:13.2 /0.0 T0:55.2 /0.0 @:0 B@:0 P:13.7 A:20.1
+E0:3840 RPM PRN1:5040 RPM E0@:255 PRN1@:255
+echo:busy: processing
+T:54.7 /0.0 B:13.3 /0.0 T0:54.7 /0.0 @:0 B@:0 P:14.0 A:19.5
+E0:3840 RPM PRN1:5040 RPM E0@:255 PRN1@:255
+T:54.2 /0.0 B:13.5 /0.0 T0:54.2 /0.0 @:0 B@:0 P:13.9 A:19.7
+E0:3840 RPM PRN1:5040 RPM E0@:255 PRN1@:255
+echo:busy: processing
+T:53.6 /0.0 B:13.4 /0.0 T0:53.6 /0.0 @:0 B@:0 P:13.9 A:19.7
+E0:3840 RPM PRN1:5040 RPM E0@:255 PRN1@:255
+T:53.1 /0.0 B:13.3 /0.0 T0:53.1 /0.0 @:0 B@:0 P:14.1 A:19.5
+E0:3840 RPM PRN1:5040 RPM E0@:255 PRN1@:255
+echo:busy: processing
+T:52.6 /0.0 B:13.3 /0.0 T0:52.6 /0.0 @:0 B@:0 P:13.9 A:19.5
+E0:3660 RPM PRN1:4440 RPM E0@:255 PRN1@:255
+T:52.1 /0.0 B:13.1 /0.0 T0:52.1 /0.0 @:0 B@:0 P:13.6 A:19.8
+E0:3660 RPM PRN1:4440 RPM E0@:255 PRN1@:255
+echo:busy: processing
+T:51.7 /0.0 B:13.2 /0.0 T0:51.7 /0.0 @:0 B@:0 P:13.9 A:19.4
+E0:3660 RPM PRN1:4440 RPM E0@:255 PRN1@:255
+T:51.3 /0.0 B:13.3 /0.0 T0:51.3 /0.0 @:0 B@:0 P:13.6 A:19.5
+E0:3660 RPM PRN1:4440 RPM E0@:255 PRN1@:255
+echo:busy: processing
+T:50.8 /0.0 B:12.9 /0.0 T0:50.8 /0.0 @:0 B@:0 P:13.8 A:19.9
+E0:3660 RPM PRN1:4440 RPM E0@:255 PRN1@:255
+T:50.4 /0.0 B:13.1 /0.0 T0:50.4 /0.0 @:0 B@:0 P:13.7 A:19.6
+E0:3840 RPM PRN1:4740 RPM E0@:255 PRN1@:255
+echo:busy: processing
+T:50.0 /0.0 B:13.1 /0.0 T0:50.0 /0.0 @:0 B@:0 P:13.5 A:19.3
+E0:3840 RPM PRN1:4740 RPM E0@:0 PRN1@:0
+T:49.7 /0.0 B:13.5 /0.0 T0:49.7 /0.0 @:0 B@:0 P:13.3 A:19.6
+E0:3840 RPM PRN1:4740 RPM E0@:0 PRN1@:0
+echo:busy: processing
+T:49.1 /0.0 B:13.1 /0.0 T0:49.1 /0.0 @:0 B@:0 P:13.3 A:18.9
+E0:3840 RPM PRN1:4740 RPM E0@:0 PRN1@:0
+T:48.8 /0.0 B:12.9 /0.0 T0:48.8 /0.0 @:0 B@:0 P:14.1 A:19.1
+E0:3840 RPM PRN1:4740 RPM E0@:0 PRN1@:0
+echo:busy: processing
+T:48.5 /0.0 B:13.1 /0.0 T0:48.5 /0.0 @:0 B@:0 P:13.8 A:19.1
+E0:3840 RPM PRN1:4740 RPM E0@:0 PRN1@:0
+T:48.3 /0.0 B:13.2 /0.0 T0:48.3 /0.0 @:0 B@:0 P:13.3 A:19.5
+E0:3840 RPM PRN1:4740 RPM E0@:0 PRN1@:0
+echo:busy: processing
+T:48.2 /0.0 B:13.1 /0.0 T0:48.2 /0.0 @:0 B@:0 P:13.4 A:20.4
+E0:0 RPM PRN1:0 RPM E0@:0 PRN1@:0
+T:48.1 /0.0 B:13.1 /0.0 T0:48.1 /0.0 @:0 B@:0 P:13.4 A:19.9
+E0:0 RPM PRN1:0 RPM E0@:0 PRN1@:0
+echo:busy: processing
+T:48.0 /0.0 B:12.6 /0.0 T0:48.0 /0.0 @:0 B@:0 P:13.5 A:19.1
+E0:0 RPM PRN1:0 RPM E0@:0 PRN1@:0
+T:47.6 /0.0 B:13.3 /0.0 T0:47.6 /0.0 @:0 B@:0 P:13.3 A:18.7
+E0:0 RPM PRN1:0 RPM E0@:0 PRN1@:0
+echo:busy: processing
+LCD status changed
+TM: initial C est.
+T:47.3 /230.0 B:13.0 /0.0 T0:47.3 /230.0 @:0 B@:0 P:13.3 A:18.9
+E0:0 RPM PRN1:0 RPM E0@:0 PRN1@:0
+T:47.3 /230.0 B:13.6 /0.0 T0:47.3 /230.0 @:127 B@:0 P:13.5 A:20.2
+E0:0 RPM PRN1:0 RPM E0@:0 PRN1@:0
+echo:busy: processing
+T:49.3 /230.0 B:13.4 /0.0 T0:49.3 /230.0 @:127 B@:0 P:13.0 A:20.5
+E0:0 RPM PRN1:0 RPM E0@:0 PRN1@:0
+T:53.1 /230.0 B:13.4 /0.0 T0:53.1 /230.0 @:127 B@:0 P:13.7 A:19.8
+E0:0 RPM PRN1:0 RPM E0@:255 PRN1@:0
+echo:busy: processing
+TM: error |1.303048|>1.200000
+LCD status changed
+TM: error |1.406624|>1.200000
+T:57.7 /230.0 B:13.2 /0.0 T0:57.7 /230.0 @:127 B@:0 P:13.6 A:19.6
+E0:0 RPM PRN1:0 RPM E0@:255 PRN1@:0
+TM: error |1.525886|>1.200000
+TM: error |1.637962|>1.200000
+TM: error |1.727618|>1.200000
+TM: calibr. failed!
+echo:Temperature Model settings:
+echo:  M310 I0 R20.50
+echo:  M310 I1 R18.40
+echo:  M310 I2 R16.70
+echo:  M310 I3 R15.20
+echo:  M310 I4 R14.10
+echo:  M310 I5 R13.30
+echo:  M310 I6 R12.70
+echo:  M310 I7 R12.10
+echo:  M310 I8 R11.70
+echo:  M310 I9 R11.30
+echo:  M310 I10 R11.00
+echo:  M310 I11 R10.80
+echo:  M310 I12 R10.60
+echo:  M310 I13 R10.40
+echo:  M310 I14 R10.20
+echo:  M310 I15 R10.10
+echo:  M310 P38.00 C12.10 S1 B1 E1.74 W1.20 T-7.00
+ok
+TM: error |1.802012|>1.200000
+TM: error triggered!
+// action:cancel
+Error:Printer stopped due to errors. Supervision required.
+T:63.0 /0.0 B:13.0 /0.0 T0:63.0 /0.0 @:0 B@:0 P:13.6 A:19.9
+E0:0 RPM PRN1:0 RPM E0@:255 PRN1@:255
+TM: error cleared
+tmc2130_home_enter(axes_mask=0x04)
+tmc2130_home_exit tmc2130_sg_homing_axes_mask=0x04
+T:68.3 /0.0 B:13.4 /0.0 T0:68.3 /0.0 @:0 B@:0 P:13.9 A:19.7
+E0:0 RPM PRN1:0 RPM E0@:255 PRN1@:0
+echo:busy: paused for user
+T:71.1 /0.0 B:13.2 /0.0 T0:71.1 /0.0 @:0 B@:0 P:13.8 A:19.5
+E0:0 RPM PRN1:0 RPM E0@:255 PRN1@:0
+T:73.7 /0.0 B:13.3 /0.0 T0:73.7 /0.0 @:0 B@:0 P:13.8 A:19.9
+E0:0 RPM PRN1:0 RPM E0@:255 PRN1@:0
+echo:busy: paused for user
+T:75.6 /0.0 B:13.4 /0.0 T0:75.6 /0.0 @:0 B@:0 P:13.6 A:19.5
+E0:0 RPM PRN1:0 RPM E0@:255 PRN1@:0
+T:76.9 /0.0 B:13.4 /0.0 T0:76.9 /0.0 @:0 B@:0 P:13.4 A:19.5
+E0:0 RPM PRN1:0 RPM E0@:255 PRN1@:0
+echo:busy: paused for user
